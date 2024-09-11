@@ -1,1 +1,422 @@
+<!DOCTYPE html><html lang="en"><head>
+    <script src="js/latest.js" data-utmify-prevent-subids="" data-utmify-fast-start="" async="" defer=""></script>
+    <!-- ========== Meta Tags ========== -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Softing - Software Landing Page">
 
+    <!-- ========== Page Title ========== -->
+    <title>ToysLand</title>
+
+    <!-- ========== Favicon Icon ========== -->
+    <link rel="shortcut icon" href="images/favicon.png" type="image/x-icon">
+
+    <!-- ========== Start Stylesheet ========== -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/font-awesome.min.css" rel="stylesheet">
+    <link href="css/elegant-icons.css" rel="stylesheet">
+    <link href="css/flaticon-set.css" rel="stylesheet">
+    <link href="css/magnific-popup.css" rel="stylesheet">
+    <link href="css/owl.carousel.min.css" rel="stylesheet">
+    <link href="css/owl.theme.default.min.css" rel="stylesheet">
+    <link href="css/animate.css" rel="stylesheet">
+    <link href="css/bootsnav.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
+    <link href="css/responsive.css" rel="stylesheet">
+    <!-- ========== End Stylesheet ========== -->
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="assets/js/html5/html5shiv.min.js"></script>
+      <script src="assets/js/html5/respond.min.js"></script>
+    <![endif]-->
+
+    <!-- ========== Google Fonts ========== -->
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Poppins:400,500,600,700,800" rel="stylesheet">
+
+</head>
+
+<body>
+
+    <!-- Preloader Start -->
+    <div class="se-pre-con"></div>
+    <!-- Preloader Ends -->
+
+   
+    <!-- Start Banner 
+    ============================================= -->
+    <div class="banner-area content-double banner-top-padding text-dark bg-theme small-text">
+        <div class="box-table">
+            <div class="box-cell">
+                <div class="container">
+                    <div class="double-items">
+                        <div class="row align-center">
+                            
+                            <div class="col-lg-6 right-info">
+                                <img src="images/app-2.png" alt="Thumb">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="wavesshape shape">
+                    <img src="images/waves-shape-2.svg" alt="Shape">
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- End Banner -->
+<div id="about" class="about-area bg-gray default-padding">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 default info">
+                    <h4>APROVEITE A PROMOÇÃO!</h4>
+                    
+                    
+                   
+                    <div class="bottom-info">
+                       
+                        <ul>
+                            <li>
+                                <i class="fas fa-check"></i> <span>FRETE GRÁTIS PARA TODO O BRASIL</span>
+                            </li>
+                            <li>
+                                <i class="fas fa-check"></i> <span>PRECISÃO E DIVERSÃO EM CADA DISPARO</span>
+                            </li>
+                            <li>
+                                <i class="fas fa-check"></i> <span>SEGURANÇA E DIVERSÃO PARA TODAS AS IDADES</span>
+                            </li>
+                            
+                        </ul>
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+    </div>
+    <!-- Start Features 
+    ============================================= -->
+    <div id="features" class="features-area cell-items default-padding">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 offset-lg-2">
+                    
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-5 features-thumb">
+                    <img src="images/app-9.png" alt="Thumb">
+                </div>
+				<div class="col-lg-5 features-thumb">
+                    <img src="images/app-3.png" alt="Thumb">
+                </div>
+				<!-- Start Pricing Area
+    ============================================= -->
+    <div id="pricing" class="pricing-area default-padding bg-gray bottom-less">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 offset-lg-2">
+                   
+                </div>
+            </div>
+            <div class="pricing pricing-simple text-center">
+                <div class="row">
+                    <div class="col-lg-4 col-md-6">
+                        <div class="pricing-item">
+                            <ul>
+                                <li class="pricing-header">
+                                    <h4>2 PISTOLAS AUTOMÁTICAS<br>+10 MIL BALAS</h4>
+                                    <h2><sup>R$</sup>99.90 <sub></sub></h2>
+                                </li>
+								<div class="col-lg-5 features-thumb">
+                    <img src="images/app-4.png" alt="Thumb">
+                </div>
+                                
+                                <li class="footer">
+                                    <a class="btn circle btn-theme border btn-sm" href="https://pay.pagamentosegurobr.com.br/PVYB341jNoLZKzk">COMPRE JÁ</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6">
+                        <div class="pricing-item active">
+                            <ul>
+                                <li class="pricing-header">
+                                    <h4>2 PISTOLAS AUTOMÁTICAS<br>+2 FUZIS COM 20 MIL BALAS</h4>
+                                    <h2><sup>R$</sup>129.90 <sub></sub></h2>
+									<div class="col-lg-5 features-thumb">
+                    <img src="images/app-5.png" alt="Thumb">
+                </div>
+                                </li>
+                                <li><i class="fas fa-check"></i> 2 Pistolas Automáticas</li>
+                                <li><i class="fas fa-check"></i> 2 Fuzis Automáticos</li>
+                                <li><i class="fas fa-check"></i> +20 Mil Balas</li>
+                               
+                                <li class="footer">
+                                    <a class="btn circle btn-theme effect btn-sm" href="https://pay.pagamentosegurobr.com.br/521rZJYbvnj3eaX">COMPRE JÁ</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- End Pricing Area -->
+                
+
+    <!-- Start About 
+    ============================================= -->
+    <div id="about" class="about-area bg-gray default-padding">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 default info">
+                    <h4>REVIEWS</h4>
+                    <h2>Veja o que nossos<br> clientes estão falando:</h2>
+                    
+                   
+                    <div class="bottom-info">
+                       
+                        <ul>
+                            <li>
+                                <i class="fas fa-check"></i> <span>+8 Mil Clientes Satisfeitos</span>
+                            </li>
+                            <li>
+                                <i class="fas fa-check"></i> <span>+4 Mil Peças Fabricadas</span>
+                            </li>
+                            <li>
+                                <i class="fas fa-check"></i> <span>1 Ano de Garantia</span>
+                            </li>
+                            
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-6 services-info">
+                    <div class="row">
+                      
+                        <div class="col-lg-6 col-md-6 single-item">
+                            <div class="col-lg-5 features-thumb">
+                    <img src="images/app-6.png" alt="Thumb">
+                </div>
+				<div class="item">
+                                <i class="flaticon-speech-bubble"></i>
+                                <h4>Luiza Magalhães</h4>
+                                 <p>
+                                    ⭐⭐⭐⭐⭐
+                                </p>
+								 <p>
+                                    Comprei o Kit completo para os meus filhos e eles amaram, as vezes eu até brinco com eles e não doi nada gente!!! Recomendo super, é muito divertido!!!
+                                </p>
+								
+                            </div>
+                        </div>
+                        <div class="col-lg-6 col-md-6 single-item">
+                            <div class="col-lg-5 features-thumb">
+                    <img src="images/app-7.png" alt="Thumb">
+                </div>
+				<div class="item">
+                                <i class="flaticon-speech-bubble"></i>
+                                <h4>Roberto Silva</h4>
+                                 <p>
+                                    ⭐⭐⭐⭐⭐
+                                </p>
+								 <p>
+                                    Eu e meus amigos dividimos o valor das armas para o kit completo e foi mt louco kkkkkk todo mundo deveria viver essa experiencia eh mt top
+                                </p>
+								
+                            </div>
+                        </div>
+                        <div class="col-lg-6 col-md-6 single-item">
+                            <div class="col-lg-5 features-thumb">
+                    <img src="images/app-8.png" alt="Thumb">
+                </div>
+				<div class="item">
+                                <i class="flaticon-speech-bubble"></i>
+                                <h4>Guilherme Henrique</h4>
+                                 <p>
+                                    ⭐⭐⭐⭐⭐
+                                </p>
+								 <p>
+                                    Comprei pra brincar com meu filho e passar um tempo me divertindo com ele, é muito gratificante ver esse sorriso dele feliz por passar um momento comigo...
+                                </p>
+								
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- End About -->
+
+    <!-- Start Subscribe 
+    ============================================= -->
+    <div class="subscribe-area bg-fixed shadow dark text-light default-padding text-center" style="background-image: url(images/4.png);">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 offset-lg-3">
+                    <h3>Disponível no Valor Promocional</h3>
+                    <p>
+                        Garanta o seu kit completo e receba uma super promoção exclusiva de 50% OFF na próxima compra aqui na nossa loja
+                    </p>
+                    
+                                    <a class="btn circle btn-theme effect btn-sm" href="https://pay.pagamentosegurobr.com.br/521rZJYbvnj3eaX">COMPRE JÁ</a>
+                                
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- End Subscribe -->
+
+    
+    <!-- Start Faq  
+    ============================================= -->
+    <div class="faq-area bg-gray default-padding-top">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 offset-lg-2">
+                    <div class="site-heading text-center">
+                        <h2>Perguntas Frequentes</h2>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-6 thumb">
+                    <img src="images/contact.png" alt="Thumb">
+                </div>
+                <div class="col-lg-6 faq-items default-padding-bottom">
+                    <!-- Start Accordion -->
+                    <div class="faq-content">
+                        <div class="accordion" id="accordionExample">
+                            <div class="card">
+                                <div class="card-header" id="headingOne">
+                                    <h4 class="mb-0" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                          A Arma de Gel é para crianças?
+                                    </h4>
+                                </div>
+
+                                <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
+                                    <div class="card-body">
+                                        <p>
+                                            Sim! A arma de gel automática foi desenvolvida para ser segura. Os projéteis de gel são suaves, biodegradáveis e se dissolvem ao impacto, sem causar ferimentos. Mesmo assim, recomendamos sempre o uso sob supervisão de um adulto, especialmente para crianças menores de 8 anos.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card">
+                                <div class="card-header" id="headingTwo">
+                                    <h4 class="mb-0 collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                          O Que são os projéteis em gel? Eles fazem sujeira?
+                                    </h4>
+                                </div>
+                                <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
+                                    <div class="card-body">
+                                        <p>
+                                            Os projéteis de gel são pequenas esferas de água que se expandem quando mergulhadas em água. Eles se desintegram ao impactar, e como são feitos de água, não fazem sujeira e são totalmente inofensivos para o meio ambiente.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card">
+                                <div class="card-header" id="headingThree">
+                                    <h4 class="mb-0 collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                      Preciso de algum equipamento especial para usar a arma?
+                                  </h4>
+                                </div>
+                                <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
+                                    <div class="card-body">
+                                        <p>
+Não. O pacote inclui tudo o que você precisa para começar a brincar: a arma, bateria recarregável, carregador USB e uma quantidade inicial de projéteis de gel. Você pode comprar mais projéteis separadamente, se necessário.                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card">
+                                <div class="card-header" id="headingFour">
+                                    <h4 class="mb-0 collapsed" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                                      Como funciona a garantia &amp; trocas e devoluções?
+                                  </h4>
+                                </div>
+                                <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordionExample">
+                                    <div class="card-body">
+                                        <p>
+                                            Nós damos garantia de 1 ano para os nossos produtos, caso você fique insatisfeito, é só entrar em contato com o nosso suporte que devolveremos o seu dinheiro
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- End Accordion -->
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- End Faq  -->
+
+    <!-- Start Footer 
+    ============================================= -->
+    <footer class="default-padding bg-light">
+        <div class="container">
+            <div class="f-items">
+                <div class="row">
+                    <div class="col-lg-3 col-md-6 item">
+                        <div class="f-item">
+                            <img src="images/logo.png" alt="Logo">
+                            <p>
+                                Bem-vindo �&nbsp; Toysland, onde a diversão e a segurança andam de mãos dadas! Há mais de 3 anos, temos o orgulho de ser uma referência no mercado de armas de gel para crianças, oferecendo produtos de alta qualidade que proporcionam momentos inesquecíveis de entretenimento e aventura.
+                            </p>
+                           
+                        </div>
+                    </div>
+                 
+                </div>
+            </div>
+            <!-- Start Footer Bottom -->
+            <div class="footer-bottom">
+                <div class="col-lg-12">
+                    <div class="row">
+                        <div class="col-lg-6">
+                            <p>© Copyright 2024. Todos os Direitos Reservados <a href="#">Toysland</a></p>
+                        </div>
+                        <div class="col-lg-6 text-right link">
+                            <ul>
+                                <li>
+                                    <a href="#">Termos de Uso</a>
+                                </li>
+                                <li>
+                                    <a href="#">Políticas de Privacidade</a>
+                                </li>
+                                <li>
+                                    <a href="#">Suporte</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Footer Bottom -->
+        </div>
+    </footer>
+    <!-- End Footer -->
+
+    <!-- jQuery Frameworks
+    ============================================= -->
+    <script src="js/jquery-1.12.4.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/popper.min.js"></script>
+    <script src="js/jquery.appear.js"></script>
+    <script src="js/jquery.easing.min.js"></script>
+    <script src="js/jquery.magnific-popup.min.js"></script>
+    <script src="js/modernizr.custom.13711.js"></script>
+    <script src="js/owl.carousel.min.js"></script>
+    <script src="js/wow.min.js"></script>
+    <script src="js/count-to.js"></script>
+    <script src="js/bootsnav.js"></script>
+    <script src="js/main.js"></script>
+
+
+</div></div></div></body></html>
